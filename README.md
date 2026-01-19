@@ -87,5 +87,18 @@ Knowledge-based fact verification
 
 Advanced calibration techniques
 
+## 📁 Dataset
+
+Datasets are not included in this repository due to size constraints.
+
+To run the project locally:
+1. Download the dataset (e.g. Fake & True news CSVs)
+2. Place them inside:
+   data/raw/
+
+The training notebooks and backend expect this structure.
+
+
+
 
 
