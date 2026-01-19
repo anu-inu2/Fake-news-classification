@@ -1,0 +1,34 @@
+# ======================
+# Python cache files
+# ======================
+__pycache__/
+*.pyc
+
+# ======================
+# Jupyter Notebook junk
+# ======================
+.ipynb_checkpoints/
+
+# ======================
+# Datasets (keep locally)
+# ======================
+data/raw/*
+
+# ======================
+# Trained models (keep locally)
+# ======================
+models/*
+!models/README.md
+
+# ======================
+# Environment files
+# ======================
+.env
+.venv
+env/
+
+# ======================
+# OS junk
+# ======================
+.DS_Store
+Thumbs.db
