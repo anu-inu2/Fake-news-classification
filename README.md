@@ -1,5 +1,3 @@
-# Fake News Classification System
-
 An end-to-end fake news classification backend built using classical NLP models and transformer-based deep learning, with a confidence-aware ensemble to mitigate dataset bias and overconfidence.
 
 ---
@@ -88,5 +86,6 @@ Separate headline vs article models
 Knowledge-based fact verification
 
 Advanced calibration techniques
+
 
 
